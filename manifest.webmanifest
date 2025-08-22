@@ -1,0 +1,14 @@
+{
+  "name": "Europe Trip Dashboard",
+  "short_name": "TripDash",
+  "start_url": "/?view=timeline",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {"src": "/assets/favicons/icon-192.png", "sizes":"192x192", "type":"image/png"},
+    {"src": "/assets/favicons/icon-512.png", "sizes":"512x512", "type":"image/png"},
+    {"src": "/assets/favicons/maskable-512.png", "sizes":"512x512", "type":"image/png", "purpose":"maskable"}
+  ]
+}

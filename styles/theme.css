@@ -1,0 +1,4 @@
+@media (prefers-color-scheme: dark){
+  :root{--bg:#121212;--surface:#1e1e1e;--surface-2:#333333;--text:#ffffff;--muted:#aaaaaa;}
+}
+.high-contrast{--bg:#000;--text:#fff;--primary:#0ff;}
