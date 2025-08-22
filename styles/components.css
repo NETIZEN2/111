@@ -1,0 +1,3 @@
+.card{background:var(--surface);border-radius:var(--radius-card);box-shadow:var(--shadow);padding:var(--space-4);}
+.btn{background:var(--primary);color:var(--on-primary);padding:var(--space-2)var(--space-4);border-radius:var(--radius-btn);}
+.btn:focus{outline:2px solid var(--focus);outline-offset:2px;}

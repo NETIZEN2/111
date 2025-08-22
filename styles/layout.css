@@ -1,0 +1,6 @@
+.stack{display:flex;flex-direction:column;gap:var(--space-3);}
+.cluster{display:flex;gap:var(--space-3);align-items:center;flex-wrap:wrap;}
+.grid{display:grid;gap:var(--space-3);}
+.sidebar{display:flex;}
+.switcher{display:flex;flex-wrap:wrap;gap:var(--space-3);}
+.map-container{height:60vh;}
